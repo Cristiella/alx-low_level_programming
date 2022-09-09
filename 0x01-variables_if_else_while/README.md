@@ -7,3 +7,5 @@ program that prints the alphabet in lowercase, followed by a new line
 program that prints the alphabet in lowercase, and then in uppercase, followed by a new line
 3-print_alphabets.c
 program that prints the alphabet in lowercase, and then in uppercase, followed by a new line
+4-print_alphabt.c
+prints the alphabet in lowercase, followed by a new line
