@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - prints single digit nos base 10 
+ * main - print single digit base 10
  *
  * Return: 0 on success
  */
@@ -16,4 +16,3 @@ int main(void)
 	putchar('\n');
 	return (0);
 }
-
