@@ -9,3 +9,5 @@ program that prints the alphabet in lowercase, and then in uppercase, followed b
 program that prints the alphabet in lowercase, and then in uppercase, followed by a new line
 4-print_alphabt.c
 prints the alphabet in lowercase, followed by a new line
+5-print_numbers.c
+program that prints all single digit numbers of base 10 starting from 0
